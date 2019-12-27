@@ -1,8 +1,8 @@
 {
   "consultaTicket": [
       {
-      "id":486167110608240809,
-      "ticketEnvio": 486167110608240809,
+      "id":"486167110608240809",
+      "ticketEnvio": "486167110608240809",
       "ejercicio": "2018",
       "identificacionEnvio": "2018320024407",
       "codigoAreaTransaccional": "0802001",
@@ -17,8 +17,8 @@
         }]
       },
       {
-        "id":4248680684849086973,
-        "ticketEnvio": 4248680684849086973,
+        "id":"4248680684849086973",
+        "ticketEnvio": "4248680684849086973",
         "ejercicio": "2018",
         "identificacionEnvio": "201832002405",
         "codigoAreaTransaccional": "0802001",
