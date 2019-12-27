@@ -1,17 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-     {
-      "id": 2,
-      "title": "nada"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "consultaTicket": [
       {
       "id":486167110608240809,
