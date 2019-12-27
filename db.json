@@ -11,5 +11,40 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "consultaTicket": [
+      {
+      "ticketEnvio": 486167110608240809,
+      "ejercicio": "2018",
+      "identificacionEnvio": "2018320024407",
+      "codigoAreaTransaccional": "0802001",
+      "fechaRecepcion": "",
+      "estado": "FINALIZADO_SIN_ERRORES",
+      "ticketError": 0,
+      "transaccionVerticalesType": [{
+        "folio": "184",
+        "idTransferenia": "211",
+        "resultado": true,
+        "detalleErrorVerticalesType": []
+        }]
+      },
+      {
+        "ticketEnvio": 4248680684849086973,
+        "ejercicio": "2018",
+        "identificacionEnvio": "201832002405",
+        "codigoAreaTransaccional": "0802001",
+        "fechaRecepcion": "",
+        "estado": "FINALIZADO_CON_ERRORES",
+        "ticketError": 0,
+        "transaccionVerticalesType": [{
+          "folio": "",
+          "idTransferenia": "211",
+          "resultado": false,
+          "detalleErrorVerticalesType": [{
+            "descripcion": "La fecha del documento pertenece a un año distinto al informado como ejercicio",
+            "validacion": "Coherencia",
+            "valor": null
+          }]
+        }]
+      }
 }
