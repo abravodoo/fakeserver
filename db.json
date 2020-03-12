@@ -40,6 +40,22 @@
         "id":"999",
         "codigo": "3427834782374274",
         "descripcion": "Recepción conforme"
+      },
+      {
+        "id":"001",
+        "codigo": "3427834782374274",
+        "descripcion": "Error en la Recepcion, Archivos con problema de Formato"
+      },
+      {
+        "id":"002",
+        "codigo": "3427834782374274",
+        "descripcion": "Error en la Recepcion, Montos no Concuerdan"
+      },
+      {
+        "id":"003",
+        "codigo": "3427834782374274",
+        "descripcion": "Error en la Recepcion, No Existe partida Presupuestaria"
       }
+
     ]
 }
