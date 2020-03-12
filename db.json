@@ -35,6 +35,11 @@
             "valor": null
           }]
         }]
+      },
+      {
+        "id":"999",
+        "codigo": "3427834782374274",
+        "descripcion": "Recepción conforme"
       }
     ]
 }
